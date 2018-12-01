@@ -1,0 +1,25 @@
+{
+  "name": "skwtestpackage",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "revers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svetlanakononova/svetlanakononova.github.io.git"
+  },
+  "author": "Svetlana Kononova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svetlanakononova/svetlanakononova.github.io/issues"
+  },
+  "homepage": "https://github.com/svetlanakononova/svetlanakononova.github.io#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
